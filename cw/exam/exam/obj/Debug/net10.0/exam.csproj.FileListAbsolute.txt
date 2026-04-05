@@ -1,0 +1,15 @@
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/bin/Debug/net10.0/exam
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/bin/Debug/net10.0/exam.deps.json
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/bin/Debug/net10.0/exam.runtimeconfig.json
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/bin/Debug/net10.0/exam.dll
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/bin/Debug/net10.0/exam.pdb
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/obj/Debug/net10.0/exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/obj/Debug/net10.0/exam.AssemblyInfoInputs.cache
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/obj/Debug/net10.0/exam.AssemblyInfo.cs
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/obj/Debug/net10.0/exam.csproj.CoreCompileInputs.cache
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/obj/Debug/net10.0/exam.sourcelink.json
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/obj/Debug/net10.0/exam.dll
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/obj/Debug/net10.0/refint/exam.dll
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/obj/Debug/net10.0/exam.pdb
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/obj/Debug/net10.0/exam.genruntimeconfig.cache
+/Users/hevingmey/Desktop/SystemPrograming/cw/exam/exam/obj/Debug/net10.0/ref/exam.dll
