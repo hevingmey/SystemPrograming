@@ -1,0 +1,15 @@
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/bin/Debug/net10.0/hw01.04.26
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/bin/Debug/net10.0/hw01.04.26.deps.json
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/bin/Debug/net10.0/hw01.04.26.runtimeconfig.json
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/bin/Debug/net10.0/hw01.04.26.dll
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/bin/Debug/net10.0/hw01.04.26.pdb
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/obj/Debug/net10.0/hw01.04.26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/obj/Debug/net10.0/hw01.04.26.AssemblyInfoInputs.cache
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/obj/Debug/net10.0/hw01.04.26.AssemblyInfo.cs
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/obj/Debug/net10.0/hw01.04.26.csproj.CoreCompileInputs.cache
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/obj/Debug/net10.0/hw01.04.26.sourcelink.json
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/obj/Debug/net10.0/hw01.04.26.dll
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/obj/Debug/net10.0/refint/hw01.04.26.dll
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/obj/Debug/net10.0/hw01.04.26.pdb
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/obj/Debug/net10.0/hw01.04.26.genruntimeconfig.cache
+/Users/hevingmey/Desktop/SystemPrograming/hw/hw01.04.26/hw01.04.26/obj/Debug/net10.0/ref/hw01.04.26.dll
