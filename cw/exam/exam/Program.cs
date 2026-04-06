@@ -14,6 +14,8 @@ class Program
         Console.WriteLine("2: Show by id");
         Console.WriteLine("3: Show by author");
         Console.WriteLine("4: Add article");
+        Console.WriteLine("5: Delete article");
+        Console.WriteLine("6: Patch article");
         
         int choice=int.Parse(Console.ReadLine());
         switch (choice)
@@ -33,6 +35,18 @@ class Program
             case 4:
                 Console.WriteLine("add article");
                 await service.AddArticleAsync();
+                break;
+            case 5:
+                Console.WriteLine("delete article");
+                Console.WriteLine("****************");
+                Console.WriteLine("enter id author ");
+                int IdForDelete = int.Parse(Console.ReadLine());
+                await service.DeleteArticleAsync(IdForDelete);
+                break;
+            case 6:
+                Console.WriteLine("Patch article");
+                int patchId=int.Parse(Console.ReadLine());
+                await service.PatchArticleAsync(patchId);
                 break;
             
         }

@@ -1,140 +1,140 @@
 {
   "articles": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Intro to Programming",
       "description": "Basics of coding",
       "author": "Alex",
       "date": "2024-01-01"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "C# Fundamentals",
       "description": "Learn C# basics",
       "author": "John",
       "date": "2024-01-02"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Async in C#",
       "description": "Understanding async/await",
       "author": "Alex",
       "date": "2024-01-03"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "HTTP Basics",
       "description": "How APIs work",
       "author": "Mike",
       "date": "2024-01-04"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "JSON Guide",
       "description": "Working with JSON",
       "author": "Anna",
       "date": "2024-01-05"
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "LINQ Basics",
       "description": "Querying data",
       "author": "Alex",
       "date": "2024-01-06"
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "OOP Principles",
       "description": "Encapsulation, inheritance",
       "author": "John",
       "date": "2024-01-07"
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "Entity Framework",
       "description": "Working with DB",
       "author": "Mike",
       "date": "2024-01-08"
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "REST API",
       "description": "Building APIs",
       "author": "Anna",
       "date": "2024-01-09"
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "Multithreading",
       "description": "Threads in C#",
       "author": "Alex",
       "date": "2024-01-10"
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "Task vs Thread",
       "description": "Differences explained",
       "author": "John",
       "date": "2024-01-11"
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "Garbage Collector",
       "description": "Memory management",
       "author": "Mike",
       "date": "2024-01-12"
     },
     {
-      "id": 13,
+      "id": "13",
       "title": "Delegates",
       "description": "Using delegates",
       "author": "Anna",
       "date": "2024-01-13"
     },
     {
-      "id": 14,
+      "id": "14",
       "title": "Events in C#",
       "description": "Working with events",
       "author": "Alex",
       "date": "2024-01-14"
     },
     {
-      "id": 15,
+      "id": "15",
       "title": "Collections",
       "description": "Lists and arrays",
       "author": "John",
       "date": "2024-01-15"
     },
     {
-      "id": 16,
+      "id": "16",
       "title": "File Handling",
       "description": "Read/write files",
       "author": "Mike",
       "date": "2024-01-16"
     },
     {
-      "id": 17,
+      "id": "17",
       "title": "Serialization",
       "description": "Convert objects to JSON",
       "author": "Anna",
       "date": "2024-01-17"
     },
     {
-      "id": 18,
+      "id": "18",
       "title": "Dependency Injection",
       "description": "DI basics",
       "author": "Alex",
       "date": "2024-01-18"
     },
     {
-      "id": 19,
+      "id": "19",
       "title": "Unit Testing",
       "description": "Testing code",
       "author": "John",
       "date": "2024-01-19"
     },
     {
-      "id": 20,
+      "id": "20",
       "title": "Clean Code",
       "description": "Writing better code",
       "author": "Mike",
@@ -147,7 +147,17 @@
       "Image": "s;aldkf;sda",
       "Author": "dskl;f;lask",
       "Date": "2026-04-03T18:53:21.921644+01:00",
-      "id": 21
+      "id": "21"
+    },
+    {
+      "Id": 32,
+      "Title": "1dfsdf",
+      "Description": "sdfasf",
+      "Image": "asdfasd",
+      "Author": "dhfgh",
+      "Date": "2026-04-06T21:38:23.566725+01:00",
+      "id": "Vur4AVlNdrk"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

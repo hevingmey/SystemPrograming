@@ -47,10 +47,28 @@ public class RepositoryArticle
 
       if (article != null)
       {
-        return art.Id;
+        return article.Id;
       }
     }
 
     return null;
   }
+
+  public async Task<bool> DeleteArticleByIdAsync(int id)
+  {
+    var delArt = await _client.DeleteAsync($"{_url}/{id}");
+      return delArt.IsSuccessStatusCode;
+  }
+  public async Task<bool> PatchArticleAsync(int id, object update)
+  {
+    var json = JsonSerializer.Serialize(update);
+    var data=new StringContent(json, Encoding.UTF8, "application/json");
+    var request = new HttpRequestMessage(new HttpMethod("Patch"), $"{_url}/{id}")
+    {
+      Content = data
+    };
+    var response =await _client.SendAsync(request);
+    return response.IsSuccessStatusCode;
+  }
+  
 }
