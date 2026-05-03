@@ -1,0 +1,15 @@
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/bin/Debug/net10.0/dndGame
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/bin/Debug/net10.0/dndGame.deps.json
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/bin/Debug/net10.0/dndGame.runtimeconfig.json
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/bin/Debug/net10.0/dndGame.dll
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/bin/Debug/net10.0/dndGame.pdb
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/obj/Debug/net10.0/dndGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/obj/Debug/net10.0/dndGame.AssemblyInfoInputs.cache
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/obj/Debug/net10.0/dndGame.AssemblyInfo.cs
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/obj/Debug/net10.0/dndGame.csproj.CoreCompileInputs.cache
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/obj/Debug/net10.0/dndGame.sourcelink.json
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/obj/Debug/net10.0/dndGame.dll
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/obj/Debug/net10.0/refint/dndGame.dll
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/obj/Debug/net10.0/dndGame.pdb
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/obj/Debug/net10.0/dndGame.genruntimeconfig.cache
+/Users/hevingmey/Desktop/SystemPrograming/cw/dndGame/dndGame/obj/Debug/net10.0/ref/dndGame.dll
